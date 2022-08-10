@@ -10,4 +10,4 @@ git push -u origin main
 
 # gh
 
- 
+ gh repo create wiki --public --source=. --remote=upstream
