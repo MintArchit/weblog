@@ -1,0 +1,4 @@
+# cmds
+
+:messages       List errors
+
