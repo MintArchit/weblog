@@ -17,15 +17,19 @@ a               append
 
 ## vimwiki 
 
-*disabled vimwiki link navigation due to keybinding conflicts*
+[disabled vimwiki link navigation due to keybinding conflicts](https://github.com/vimwiki/vimwiki/blob/ba84981b5ae54af32e320cd04b583dd7e9fe1c6c/doc/vimwiki.txt#L3311-L3325)
 
 mode:
 - **normal**
 ctrl+Space      1. transform listitem into task |or
                 2. toggle task
+Link Navigation 
+%%Enter           remove indent
+%%Tab				Select next
+%%S-Tab			Select previous
+
 - **insert**
 :               indent next listitem/task
-Enter           remove indent
 
 - **command**
 :VimwikiTOC
@@ -34,5 +38,5 @@ Enter           remove indent
 ## NerdTree
 
 m				modify tree structure
-
+r				refresh
 
