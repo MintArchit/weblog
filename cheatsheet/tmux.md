@@ -12,8 +12,8 @@ C-b |	    split horizontally
 C-b %	    split vertically
 C-b x       close
 C-b z       fullscreen
-Alt ←      select left
-Alt →      select right
+Alt ←       select left
+Alt →       select right
 
 # tabs (=window)
 Ctrl t      open
