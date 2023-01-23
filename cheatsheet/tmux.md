@@ -5,6 +5,7 @@ Ctrl b = C-b
 C-b ?       help
 C-b /       describe key
 C-b :       tmux cmd
+C-Space		Cycle Layout
 
 # panes
 C-b }	    move pane right
