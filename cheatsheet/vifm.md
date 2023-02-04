@@ -1,3 +1,5 @@
+# vifm
+
 - yy		yank
 - p			paste
 - P			move
